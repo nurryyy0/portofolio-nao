@@ -1,0 +1,3 @@
+# SPA fallback untuk Netlify / Vercel & hosting statis lain:
+# semua route diarahkan ke index.html (React Router menangani di sisi klien).
+/*  /index.html  200
